@@ -1,12 +1,12 @@
-Repositorio com informações do curso automação  do zero.
+# Repositorio com informações sobre automação.
 
 Recursos utilizados:
 
-*Ruby
+* Ruby
 
-*Rspec
+* Rspec
 
-*Capybara
+* Capybara
 
-*Selenium-WebDriver
+* Selenium-WebDriver
 
