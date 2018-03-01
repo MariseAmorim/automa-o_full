@@ -1,10 +1,12 @@
-# automa-o_full
-
 Repositorio com informações do curso automação  do zero.
 
-Recursos utilizados
+Recursos utilizados:
+
 *Ruby
+
 *Rspec
+
 *Capybara
+
 *Selenium-WebDriver
 
