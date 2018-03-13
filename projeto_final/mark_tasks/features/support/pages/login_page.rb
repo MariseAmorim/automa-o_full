@@ -3,7 +3,7 @@ class LoginPage < SitePrism::Page
   
     element :input_email, '#login_email'
     element :input_senha, 'input[name=password]'
-    element :botao_logar, 'button[id*=btnLogin]'
+    element :botao_logar, '#btLogin'
     element :alert, '.alert-login'
   
     def logar(email, senha)
